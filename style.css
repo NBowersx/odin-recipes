@@ -1,0 +1,11 @@
+#title{
+    
+    background-color:  #212115;
+}
+.recipes,#title,
+ .text, div.text {
+    color: lightgreen;
+}
+.body {
+    background-color:  #212115;
+}
